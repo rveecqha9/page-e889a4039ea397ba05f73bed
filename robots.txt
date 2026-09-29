@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://web.gzcbyy.cn/sitemap.xml
